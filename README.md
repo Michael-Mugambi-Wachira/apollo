@@ -16,7 +16,7 @@ Welcome to Apollo's GitHub page!
 
 For business and partnership, please visit [our website](http://apollo.auto).
 
-## Table of Contents
+# Table of Contents
 
 1. [Introduction](#introduction)
 2. [Prerequisites](#prerequisites)
@@ -186,7 +186,7 @@ Apollo 8.0 introduced the concept of package management for user learning scenar
 
 ![](docs/02_Quick%20Start/demo_guide/images/Apollo_3_5_software_architecture.png)
 
-## Installation
+# Installation
 
 - [Hardware installation guide](docs/11_Hardware%20Integration%20and%20Calibration/%E8%BD%A6%E8%BE%86%E9%9B%86%E6%88%90/%E7%A1%AC%E4%BB%B6%E5%AE%89%E8%A3%85hardware%20installation/apollo_3_5_hardware_system_installation_guide.md)
 - [Software installation_guide](https://apollo.baidu.com/docs/apollo/9.0/md_docs_2_xE5_xAE_x89_xE8_xA3_x85_xE6_x8C_x87_xE5_x8D_x97_2_xE5_x8C_x85_xE7_xAE_xA1_xE7_x90_x86_410bb1324792103828eeacd86377c551.html) - **This step is required**
