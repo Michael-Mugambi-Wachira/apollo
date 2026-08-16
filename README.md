@@ -26,7 +26,7 @@ For business and partnership, please visit [our website](http://apollo.auto).
 6. [Quick Starts](#quick-starts)
 7. [Documents](#documents)
 
-# Introduction
+## Introduction
 
 Apollo is loaded with new modules and features but needs to be calibrated and configured perfectly before you take it for a spin. Please review the prerequisites and installation steps in detail to ensure that you are well equipped to build and launch Apollo. You could also check out Apollo's architecture overview for a greater understanding of Apollo's core technology and platforms.
 
