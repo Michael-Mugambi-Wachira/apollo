@@ -8,7 +8,7 @@ not because they are easy, but because they are hard.
 
 -- John F. Kennedy, 1962
 
-```
+``
 
 Welcome to Apollo's GitHub page!
 
